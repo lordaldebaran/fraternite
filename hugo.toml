@@ -1,1 +1,3 @@
 theme = 'ananke'
+[params]
+  logo = "images/logo.png"
