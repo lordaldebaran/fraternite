@@ -2,7 +2,7 @@
 title: "Repas de Fraternité à Chatou"
 description: "Chrétiens et Musulmans unis pour un moment de partage"
 type: "page"
----
+date: 2026-02-03
 ---
 
 # Un moment historique sous le signe du partage 🌙✨
