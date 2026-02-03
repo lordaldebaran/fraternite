@@ -4,7 +4,7 @@ description: "Chrétiens et Musulmans unis pour un moment de partage"
 type: "page"
 date: 2026-02-03
 ---
-
+![Logo de la Fraternité](/fraternite/images/logo.png)
 # Un moment historique sous le signe du partage 🌙✨
 
 C'est une année exceptionnelle ! En cette année **2026**, le calendrier nous offre un cadeau précieux : le **Ramadan** et le **Carême** se déroulent en même temps. C'est une occasion unique pour nos communautés de se rapprocher.
