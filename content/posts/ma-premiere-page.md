@@ -1,6 +1,8 @@
 ---
 title: "Un Repas de Fraternité : Chrétiens et Musulmans Unis"
-date: 2026-02-03
+date: 2026-02-003
+type: "page"
+layout: "single"
 draft: true
 ---
 
