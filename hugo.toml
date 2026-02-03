@@ -1,5 +1,9 @@
 baseURL = 'https://lordaldebaran.github.io/fraternite/'
+languageCode = 'fr-fr'
+title = 'Fraternité Chatou'
 theme = 'ananke'
+
 [params]
-	site_logo = "images/logo.png"
- 	logo = "images/logo.png"[params]
+  site_logo = "images/logo.png"
+  logo = "images/logo.png"
+  description = "Rencontre fraternelle entre Chrétiens et Musulmans"
