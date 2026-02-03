@@ -4,6 +4,7 @@ description: "Chrétiens et Musulmans unis pour un moment de partage"
 type: "page"
 date: 2026-02-03
 ---
+<img src="/fraternite/images/logo.png" alt="Logo" style="width:200px;"/>
 ![Logo de la Fraternité](/fraternite/images/logo.png)
 # Un moment historique sous le signe du partage 🌙✨
 

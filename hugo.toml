@@ -1,4 +1,5 @@
 baseURL = 'https://lordaldebaran.github.io/fraternite/'
 theme = 'ananke'
 [params]
-  logo = "/images/logo.png"
+	site_logo = "images/logo.png"
+ 	logo = "images/logo.png"[params]
