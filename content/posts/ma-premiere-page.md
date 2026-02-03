@@ -1,7 +1,7 @@
 ---
 title: "Un Repas de Fraternité : Chrétiens et Musulmans Unis"
 date: 2026-02-03
-draft: false
+draft: true
 ---
 
 # Un moment historique sous le signe du partage 🌙✨
